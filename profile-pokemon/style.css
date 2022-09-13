@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+body {
+  background-color: rgb(251, 222, 227);
+}
+
+img {
+  width: 150px;
+}
+
+h3 {
+  font-family: 'Pacifico', cursive;
+}
+
+p {
+  font-family: 'Patrick Hand', cursive;
+}
